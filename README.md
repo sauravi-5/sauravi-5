@@ -14,9 +14,6 @@ AI/ML engineer building systems that actually ship — from data pipelines to de
 ## 🛠️ What I work with
 
 **AI & LLMs** → RAG Pipelines · Agentic AI · Hugging Face Transformers · LLMs · VLMs · MCP · Vector Databases · Semantic Search
-
 **ML & Modeling** → TensorFlow · PyTorch · Computer Vision · Time Series Forecasting · Feature Engineering · Hyperparameter Optimization · Synthetic Data Generation · Reinforcement Learning
-
 **Data & Systems** → Python · SQL · R · FastAPI/Flask · AWS · Docker · Git · Power BI · Tableau
-
 **Research** → Model Evaluation · Data Preprocessing · Supervised & Unsupervised Learning · NER · Tokenization
