@@ -1,6 +1,6 @@
 # Hi, I'm Sauravi Lalge 👋
 
-📧 sauravilalge@gmail.com &nbsp;|&nbsp; 💼 [LinkedIn](#) &nbsp;|&nbsp; 🎓 AWS Certified AI Practitioner
+📧 sauravilalge@gmail.com &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/sauravilalge/) 
 
 🟢 **Open to full-time opportunities in applied AI/ML**
 
