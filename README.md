@@ -1,8 +1,8 @@
 # Hi, I'm Sauravi Lalge 👋
 
-Machine Learning / AI Engineer — MAS in Artificial Intelligence @ Illinois Institute of Technology
+MAS in Artificial Intelligence @ Illinois Institute of Technology
 
-📧 sauravilalge@gmail.com &nbsp;|&nbsp; 💼 [LinkedIn](#) &nbsp;|&nbsp; 🎓 AWS Certified AI Practitioner
+📧 sauravilalge@gmail.com &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/sauravilalge/)
 
 ---
 
