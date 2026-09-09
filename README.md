@@ -12,7 +12,7 @@ I build end-to-end ML systems — from data pipelines to deployed inference — 
 
 ## 💼 Experience
 
-**Machine Learning Intern, [Virufy](https://virufy.org)** — Jul–Aug 2025
+**Machine Learning Intern, Virufy** — Jul–Aug 2025
 Built and evaluated ML workflows on 2,000 cough/breath audio recordings; cut audio preprocessing runtime 30–35% by migrating pipelines to AWS.
 
 **Data Analyst Intern, PSA International** — Jan–Jul 2024
@@ -31,7 +31,6 @@ RAG-powered assistant analyzing portfolio performance across 5 equities using re
 
 ### [Tumor Segmentation & GAN-Based Synthetic MRI Generation](https://github.com/sauravi-5/Rare-Brain-Tumor-Diagnosis-Localization-using-Deep-Learning)
 Modular deep learning pipeline for glioblastoma detection across 22,500+ MRI images and DICOM volumes — U-Net tumor segmentation and CNN localization at ~87% accuracy, plus a GAN-based synthetic MRI generator (SSIM 0.96, PSNR 39.1 dB) to address data scarcity. Tumor severity analysis via PCA + K-Means clustering.
-Team project with [Sanjana Waghray](https://github.com/sanjana-3002), [Anshul Dani](https://github.com/anshuldani), and [Baljeet Singh](https://github.com/AarnoStormborn).
 
 ### [Agentic-Clinical-Decision-Support-POC](https://github.com/sauravi-5/Agentic-Clinical-Decision-Support-POC)
 4-agent AI pipeline (FastAPI + Claude + FAISS RAG) chaining clinical classification, policy retrieval, chain-of-thought reasoning, and governance review for explainable healthcare payment-integrity decisions. [Live demo →](https://agentic-clinical-decision-support.onrender.com)
@@ -47,10 +46,11 @@ Capstone: *Predicting Influencer Outreach Using Graphical Neural Networks* — p
 
 ## 🛠️ Skills
 
-**Languages & Viz:** Python, SQL, R, Power BI, Tableau
-**Machine Learning:** Supervised/Unsupervised Learning, Deep Learning (TensorFlow, PyTorch), Time Series Forecasting, Feature Engineering, Hyperparameter Optimization, Computer Vision, Synthetic Data Generation, Reinforcement Learning
-**NLP & GenAI:** Hugging Face Transformers, RAG, Semantic Search, Tokenization, NER, Vector Databases, LLMs, VLMs, Agentic AI, MCP
-**MLOps & Deployment:** FastAPI/Flask, Model Inference Pipelines, AWS, Docker, Git
+AI & LLMs → RAG Pipelines · Agentic AI · Hugging Face Transformers · LLMs · VLMs · MCP · Vector Databases · Semantic Search
 
----
-*Edit the LinkedIn link and swap in any repo names that changed since this was written.*
+ML & Modeling → TensorFlow · PyTorch · Computer Vision · Time Series Forecasting · Feature Engineering · Hyperparameter Optimization · Synthetic Data Generation · Reinforcement Learning
+
+Data & Systems → Python · SQL · R · FastAPI/Flask · AWS · Docker · Git · Power BI · Tableau
+
+Research → Model Evaluation · Data Preprocessing · Supervised & Unsupervised Learning · NER · Tokenization
+
